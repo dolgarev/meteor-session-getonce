@@ -1,7 +1,7 @@
 Package.describe({
   name: 'liberation:session-getonce',
-  summary: 'Adds an getOnce method to Session',
-  version: '1.0.0',
+  summary: 'Adds a method "getOnce" to Session',
+  version: '1.0.1',
   git: 'https://github.com/dolgarev/session-getonce.git'
 });
 
